@@ -9,6 +9,7 @@ const App = () => {
 
   return (
     <>
+      <h1>Learning ZUSTAND</h1>
       <UserForm />
       <div>{username}</div>
       <div>{email}</div>
